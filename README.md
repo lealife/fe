@@ -14,7 +14,7 @@ https://github.com/baidu-ife/ife/tree/master/2015_summer
 ## 基础学习资料
 
 前端知识包括:
-- 设计: Photoshop(至少会切图)
+- 设计: Photoshop(至少会切图, [视频教程](http://www.iqiyi.com/w_19rsi0a0kl.html))
 - 前端: HTML, CSS, JS
 - 相关后端: NodeJS, PHP
 
