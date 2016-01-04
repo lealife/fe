@@ -48,4 +48,4 @@ https://github.com/baidu-ife/ife/tree/master/2015_summer
 
 - [RequireJS 模块化](http://www.requirejs.org/)
 - [Grund 构建工具](http://www.gruntjs.net/)
-- [Gulp 构建工具](http://www.gulpjs.com.cn/) (与Grunt相关, 推荐Gulp)
+- [Gulp 构建工具](http://www.gulpjs.com.cn/) (与Grunt相比, 推荐Gulp)
