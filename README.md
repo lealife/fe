@@ -2,6 +2,9 @@
 
 ## 百度前端技术学院学习资料(推荐, 有案例可以学习)
 
+- [通过这个任务快速入门前端](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0001) 推荐!! 用几天的时间踏踏实实把任务完成, 一定会让你受益匪浅!!
+
+其它任务:
 https://github.com/baidu-ife/ife/tree/master/2015_summer
 
 这是往届的学习资料, 大家可根据自己的方向进行选择学习:
