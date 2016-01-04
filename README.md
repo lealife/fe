@@ -41,3 +41,11 @@ https://github.com/baidu-ife/ife/tree/master/2015_summer
 ## NodeJS
 
 - [NodeJS基础到进阶](http://blog.fens.me/series-nodejs)
+
+# 前端Build工具
+
+如今前端项目的复杂度不可同日而语, 那么需要一些工具对前端项目进行管理, 打包. 以下知识是需要掌握的:
+
+- [RequireJS 模块化](http://www.requirejs.org/)
+- [Grund 构建工具](http://www.gruntjs.net/)
+- [Gulp 构建工具](http://www.gulpjs.com.cn/) (与Grunt相关, 推荐Gulp)
