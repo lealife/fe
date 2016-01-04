@@ -10,6 +10,13 @@ https://github.com/baidu-ife/ife/tree/master/2015_summer
 
 ## 基础学习资料
 
+前端知识包括:
+
+- 前端: HTML, CSS, JS
+- 相关后端: NodeJS, PHP
+
+为什么还要学习一些后端的开发, 因为纯粹的前端是没有的(有, 竞争力也不大, 不好与后端协作), 所以必须要学一些后端知识, 其中NodeJS是必学, PHP建议也学. 当然有余力, Java, Android, iOS都可以学.
+
 ## HTML
 
 - [知乎上的一些Web基本概念介绍](http://www.zhihu.com/question/22689579)
